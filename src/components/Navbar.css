@@ -1,0 +1,11 @@
+.navbar {
+  display: flex;
+  justify-content: flex-end;
+  background: #007bff;
+  padding: 10px;
+  color: #fff;
+}
+
+.user-details {
+  margin-right: 20px;
+}
